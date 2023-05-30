@@ -16,7 +16,7 @@
   
   ### :man_technologist: About Me :
   I am Zakir, currently learning layout design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-
+  - 🎓 my Hexlet profile: [https://ru.hexlet.io/u/zakir1208](https://ru.hexlet.io/u/zakir1208)                     
   - :seedling: Exploring Technical Content Writing.
 
   - :zap: In my free time, I solve problems on codewars and read tech articles.

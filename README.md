@@ -15,7 +15,7 @@
  --- 
   
   ### :man_technologist: About Me :
-  I am Zakir, currently learning layout design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+  I am Zakir, currently learning front-end web development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
   - 🎓 my Hexlet profile: [https://ru.hexlet.io/u/zakir1208](https://ru.hexlet.io/u/zakir1208)                     
   - :seedling: Exploring Technical Content Writing.
 
@@ -51,7 +51,42 @@
 ---
 
 ### :fire: My Stats :
+<div>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=zakir0000&show_icons=true&count_private=trueborder_color&theme=github_dark&border_color=21262d&card_width=400px"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=zakir0000&show_icons=true&count_private=true&icon_color=007acc&text_color=24292f&title_color=007acc&theme=default&card_width=400px"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img width="388" src="https://github-readme-stats.vercel.app/api?username=zakir0000&count_private=true&show_icons=true&card_width=400px" />
+</picture>
+&nbsp;
+<picture>
+<source 
+  srcset="https://streak-stats.demolab.com/?user=zakir0000&theme=github-dark-blue&border=21262d&stroke=21262d&sideLabels=c9d1d9&currStreakLabel=c9d1d9"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://streak-stats.demolab.com/?user=zakir0000&ring=007acc&fire=1da1f2&currStreakNum=24292f&currStreakLabel=24292f&sideNums=24292f&SideLabels=1da1f2"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img width="440" src="https://streak-stats.demolab.com/?user=zakir0000" />
+</picture>
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zakir0000&theme=dark&background=000000)](https://git.io/streak-stats)
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakir0000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zakir0000&show_icons=true&count_private=true&layout=compact&langs_count=10&theme=github_dark&border_color=21262d"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zakir0000&show_icons=true&count_private=true&layout=compact&langs_count=10&text_color=24292f&title_color=007acc&theme=default"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakir0000&count_private=true&show_icons=true&langs_count=10&layout=compact" />
+</picture>

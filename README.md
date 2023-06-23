@@ -47,6 +47,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=gitHub&logoColor=white)
 ![Surge](https://img.shields.io/badge/Surge-5CC18D?style=for-the-badge&logo=surge&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=007acc)
     
 ---
 

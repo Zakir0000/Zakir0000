@@ -1,55 +1,39 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Zakir-Khunkaev&style=flat-square&color=blue" align="center" alt=""/>
-<div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Zakir0000.Zakir0000" />
 <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zakir+Khunkaev!;" />
 </h1>
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
+<h3 align="center">A passionate software developer from Russia 🇷🇺 </h3>
+
+<br/>
+
+<div align="center">
   
- --- 
-  
-  ### :man_technologist: About Me :
-  I am Zakir, currently learning front-end web development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+  - 🌱 I’m currently learning **JavaScript**
   - 🎓 my Hexlet profile: [https://ru.hexlet.io/u/zakir1208](https://ru.hexlet.io/u/zakir1208)                     
-  - :seedling: Exploring Technical Content Writing.
-
-  - :zap: In my free time, I solve problems on codewars and read tech articles.
-
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ZakirKhunkaev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zakirkhunkaev?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B69UNgG5ET1i%2BicRRGgDUGA%3D%3D)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zakirkhunkaev@gmail.com)
   [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/zakirkhunkaev)
-  
-  ---
+</div>
+  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,figma,git,sass,pug,gulp" />
+</div>
 
-### :hammer_and_wrench: Languages and Tools :
-  <div>
+<br/>
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Zakir0000/Zakir0000/output/github-contribution-grid-snake.svg" />
   
-  
- 
-  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  <br/><br/><br/>
+</div>
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=gitHub&logoColor=white)
-![Surge](https://img.shields.io/badge/Surge-5CC18D?style=for-the-badge&logo=surge&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=007acc)
-    
----
+<hr/>
+
 
 ### :fire: My Stats :
 <div>

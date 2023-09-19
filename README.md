@@ -75,3 +75,12 @@
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakir0000&count_private=true&show_icons=true&langs_count=10&layout=compact" />
 </picture>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>

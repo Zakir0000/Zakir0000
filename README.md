@@ -4,9 +4,7 @@
 </h1>
 
    
-<h3 align="center"> 
-  <img width="150" align="center" src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Stormtroopocat" title="The Stormtroopocat">  A passionate software developer from Russia 🇷🇺
-</h3>
+
 
 <br/>
 

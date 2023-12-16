@@ -3,7 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zakir+Khunkaev!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Russia 🇷🇺 </h3>
+   
+<h3 align="center"> 
+  <img width="150" align="center" src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Stormtroopocat" title="The Stormtroopocat">  A passionate software developer from Russia 🇷🇺
+</h3>
 
 <br/>
 

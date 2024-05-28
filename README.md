@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  - 🌱 I’m currently learning **JavaScript**
+  - 🌱 I’m currently learning **React, Redux**
   - 🎓 my Hexlet profile: [if you wanna look click here](https://ru.hexlet.io/u/zakir_khunkaev)                    
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ZakirKhunkaev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zakirkhunkaev?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B69UNgG5ET1i%2BicRRGgDUGA%3D%3D)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zakirkhunkaev@gmail.com)
@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,figma,git,sass,pug,gulp,webpack" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,figma,git,sass,pug,gulp,webpack,vite,react,redux" />
 </div>
 
 <br/>

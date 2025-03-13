@@ -10,9 +10,7 @@
 
 <div align="center">
   
-  - 🌱 I’m currently learning **React, Redux**
-  - 🎓 Hexlet [profile](https://ru.hexlet.io/u/zakir_khunkaev)
-  - 🎓 freeCodeCamp => [<img height="20px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />](https://www.freecodecamp.org/Zakir1208)                     
+  - 🎓 Hexlet [profile](https://ru.hexlet.io/u/zakir_khunkaev)                
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ZakirKhunkaev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zakirkhunkaev?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B69UNgG5ET1i%2BicRRGgDUGA%3D%3D)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zakirkhunkaev@gmail.com)
   [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/zakirkhunkaev)
@@ -21,7 +19,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,git,vite,react,redux,typescript" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,vite,react,redux,typescript,postgresql" />
 </div>
 
 <br/>

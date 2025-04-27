@@ -14,11 +14,12 @@
 
 ---
 
-## ⚒️ Languages, Frameworks & Tools
+### ⚒️ Languages-Frameworks-Tools ⚒️
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=github,javascript,html,css,git,vite,react,redux,typescript,postgresql" alt="Skills" />
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+
 
 ---
 

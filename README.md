@@ -61,6 +61,9 @@ Collection of logic games (GCD, Prime Numbers, Arithmetic Progression).
 **Jurisprudence**  
 Adyghe State University | 2002–2007  
 
+**Frontend Development**  
+Hexlet | 2023–2025
+
 ---
 
 ### 🌟 **About Me**  

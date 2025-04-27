@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-zakirkhunkaev-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/zakirkhunkaev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zakirkhunkaev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakirkhunkaev)  
 📞 **Phone**: +7 904 874 37 59  
-🌍 **Location**: Maykop, Russia | 🚀 **Open to Relocation**
+🌍 **Location**: Grozny, Russia | 🚀 **Open to Relocation**
 
 ---
 
@@ -28,22 +28,22 @@
 
 ### 🚀 **Featured Projects**  
 
-#### [Real-Time Chat (Slack Clone)](https://github.com/Zakir0000/hexlet-chat)  
+#### [Real-Time Chat (Slack Clone)](https://github.com/Zakir0000/frontend-project-12)  
 ⏳ **2-4 weeks** | 🔥 **Hexlet Project**  
 Built with React/Redux, WebSockets, and Formik. Features real-time messaging, user authentication, and error monitoring with Rollbar.  
 `React` `Redux Toolkit` `WebSockets` `Formik` `Vite`
 
-#### [RSS Aggregator](https://github.com/Zakir0000/rss-aggregator)  
+#### [RSS Aggregator](https://github.com/Zakir0000/frontend-project-11)  
 ⏳ **2-4 weeks** | 📰 **Hexlet Project**  
 Automated RSS feed reader with DOM manipulation, Webpack, and AJAX. Focused on deployment and validation.  
 `Webpack` `Bootstrap` `AJAX` `DOM API`
 
-#### [Page Loader (CLI Tool)](https://github.com/Zakir0000/page-loader)  
+#### [Page Loader (CLI Tool)](https://github.com/Zakir0000/fullstack-javascript-project-4)  
 ⏳ **2-4 weeks** | ⚡ **Hexlet Project**  
 Node.js CLI to download web pages + assets for offline use. Leverages Axios and Cheerio.  
 `Node.js` `Axios` `Cheerio` `Jest`
 
-#### [Brain Games](https://github.com/Zakir0000/brain-games)  
+#### [Brain Games](https://github.com/Zakir0000/frontend-project-44)  
 🎮 **5 Console Games** | 🧠 **Hexlet Project**  
 Collection of logic games (GCD, Prime Numbers, Arithmetic Progression).  
 `JavaScript` `CLI`

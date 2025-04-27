@@ -1,58 +1,77 @@
-# Zakir Khunkaev
+# Закир Хункаев (Zakir Khunkaev) 👨💻  
+### Frontend Developer | Crafting Interactive Experiences 🚀  
 
-**Frontend Developer**
+[![Email](https://img.shields.io/badge/Email-zakirkhunkaev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zakirkhunkaev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Zakir0000-181717?style=flat&logo=github&logoColor=white)](https://github.com/Zakir0000)
+[![Telegram](https://img.shields.io/badge/Telegram-zakirkhunkaev-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/zakirkhunkaev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zakirkhunkaev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakirkhunkaev)  
+📞 **Phone**: +7 904 874 37 59  
+🌍 **Location**: Maykop, Russia | 🚀 **Open to Relocation**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zakir0000&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakir0000&layout=compact)
+---
 
-## About Me
-I’m a dedicated Frontend Developer passionate about crafting intuitive, interactive user interfaces with **JavaScript**, **TypeScript**, and **React**. I focus on writing clean, maintainable code and continuously enhance my skills to deliver value to users and projects. Based in **Maikop, Russia**, I’m open to relocation and enjoy reading professional English literature to stay updated with industry trends.
+### 🛠️ **Tech Stack**  
+#### **Frontend Mastery**  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-## Contact
-- **Email**: [zakirkhunkaev@gmail.com](mailto:zakirkhunkaev@gmail.com)
-- **Phone**: +7 904 874 37 59
-- **GitHub**: [Zakir0000](https://github.com/Zakir0000)
-- **Telegram**: [@zakirkhunkaev](https://t.me/zakirkhunkaev)
-- **LinkedIn**: [zakirkhunkaev](https://www.linkedin.com/in/zakirkhunkaev)
+#### **Tools & More**  
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-## Skills
-- **Languages & Frameworks**: JavaScript (ES6+), TypeScript, HTML5, CSS3, React, Redux (Toolkit, Thunk)
-- **Tools & Technologies**: Git, GitHub, VS Code, Chrome DevTools, Unix, Vite, Webpack, Bootstrap, Formik, WebSockets, AJAX, REST API
-- **Testing**: Jest
-- **Databases**: Basic PostgreSQL, MongoDB
-- **Other**: Responsive Design, Asynchronous Programming, Error Handling, Web Scraping, Deployment
+---
 
-## Featured Projects
+### 🚀 **Featured Projects**  
 
-### [Page Loader (CLI Tool)](https://github.com/Zakir0000/page-loader)
-A Node.js CLI tool for downloading web pages and resources (HTML, images, CSS, JavaScript) for offline use. Built with **Axios**, **Cheerio**, and **Jest**, emphasizing asynchronous programming and error handling.
+#### [Real-Time Chat (Slack Clone)](https://github.com/Zakir0000/hexlet-chat)  
+⏳ **2-4 weeks** | 🔥 **Hexlet Project**  
+Built with React/Redux, WebSockets, and Formik. Features real-time messaging, user authentication, and error monitoring with Rollbar.  
+`React` `Redux Toolkit` `WebSockets` `Formik` `Vite`
 
-**Key Features**:
-- Offline web content access
-- Web scraping and automated testing
+#### [RSS Aggregator](https://github.com/Zakir0000/rss-aggregator)  
+⏳ **2-4 weeks** | 📰 **Hexlet Project**  
+Automated RSS feed reader with DOM manipulation, Webpack, and AJAX. Focused on deployment and validation.  
+`Webpack` `Bootstrap` `AJAX` `DOM API`
 
-### [Chat (Slack Clone)](https://github.com/Zakir0000/slack-clone)
-A real-time chat app inspired by Slack, developed with **React**, **Redux**, **WebSockets**, and **REST API**. Includes user authentication, form validation with **Formik**, and deployment with **Vite**.
+#### [Page Loader (CLI Tool)](https://github.com/Zakir0000/page-loader)  
+⏳ **2-4 weeks** | ⚡ **Hexlet Project**  
+Node.js CLI to download web pages + assets for offline use. Leverages Axios and Cheerio.  
+`Node.js` `Axios` `Cheerio` `Jest`
 
-**Key Features**:
-- Real-time messaging
-- User authentication and form handling
+#### [Brain Games](https://github.com/Zakir0000/brain-games)  
+🎮 **5 Console Games** | 🧠 **Hexlet Project**  
+Collection of logic games (GCD, Prime Numbers, Arithmetic Progression).  
+`JavaScript` `CLI`
 
-### [RSS Aggregator](https://github.com/Zakir0000/rss-aggregator)
-A service to aggregate and update RSS feeds, built with pure **DOM manipulation**, **Webpack**, **Bootstrap**, and **AJAX**. Focuses on validation and deployment.
+---
 
-**Key Features**:
-- Dynamic feed aggregation
-- Validation and deployment
+### 📈 **GitHub Analytics**  
+![Zakir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zakir0000&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakir0000&layout=compact&theme=radical&hide_border=true)
 
-*Explore more projects on my [GitHub](https://github.com/Zakir0000?tab=repositories).*
+---
 
-## Education
+### 📚 **Education**  
 **Jurisprudence**  
-[Adygea State University](https://www.adygnet.ru/)  
-September 2002 – June 2007
+Adyghe State University | 2002–2007  
 
-## Additional Information
-- **Open to Relocation**: Willing to move for opportunities
-- **Location**: Maikop, Russia
-- **Languages**: Proficient in reading professional English literature
+---
+
+### 🌟 **About Me**  
+- 📚 Read tech literature in English  
+- 🛠️ Enjoy solving complex UI challenges  
+- 🌱 Continuously leveling up my TypeScript & testing skills  
+- 🎸 (Secretly) rock out to 90s alt-rock while coding  
+
+---
+
+### 🎯 **Coding Philosophy**  
+> *"First, solve the problem. Then, write the code."*  
+> — John Johnson  
+
+[![Visitors](https://komarev.com/ghpvc/?username=Zakir0000&color=blueviolet&style=flat)](https://github.com/Zakir0000)

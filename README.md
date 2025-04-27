@@ -1,5 +1,5 @@
-# Закир Хункаев (Zakir Khunkaev) 👨💻  
-### Frontend Developer | Crafting Interactive Experiences 🚀  
+# Zakir Khunkaev 👨💻  
+### freelance JavaScript developer | Crafting Interactive Experiences 🚀  
 
 [![Email](https://img.shields.io/badge/Email-zakirkhunkaev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zakirkhunkaev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Zakir0000-181717?style=flat&logo=github&logoColor=white)](https://github.com/Zakir0000)
@@ -18,7 +18,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-#### **Tools & More**  
+#### **Tools & More**
+![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)

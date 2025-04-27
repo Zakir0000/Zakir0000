@@ -1,85 +1,58 @@
-![Hi There! 👋 I'm Zakir Khunkaev!](assets/typing-intro.gif)
+# Zakir Khunkaev
 
-<div align="center">
-  I'm Zakir, a freelance JavaScript developer. I love building fast, accessible UIs with React and Fastify. Currently exploring open-source contributions.
-</div>
+**Frontend Developer**
 
-## 💑 Table of Contents
-- [About Me](about-me)
-- [Tech Stack](tech-stack)
-- [Featured Projects](featured-projects)
-- [Contributions Activity](contributions-activity)
-- [GitHub Stats](github-stats)
-- [Top Languages](top-languages)
-- [Contact](contact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zakir0000&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakir0000&layout=compact)
 
----
+## About Me
+I’m a dedicated Frontend Developer passionate about crafting intuitive, interactive user interfaces with **JavaScript**, **TypeScript**, and **React**. I focus on writing clean, maintainable code and continuously enhance my skills to deliver value to users and projects. Based in **Maikop, Russia**, I’m open to relocation and enjoy reading professional English literature to stay updated with industry trends.
 
-## 📝 About Me
-I’m **Zakir Khunkaev**, a freelance JavaScript developer. I love building fast, accessible user interfaces with React and Fastify. Currently exploring open-source contributions.
+## Contact
+- **Email**: [zakirkhunkaev@gmail.com](mailto:zakirkhunkaev@gmail.com)
+- **Phone**: +7 904 874 37 59
+- **GitHub**: [Zakir0000](https://github.com/Zakir0000)
+- **Telegram**: [@zakirkhunkaev](https://t.me/zakirkhunkaev)
+- **LinkedIn**: [zakirkhunkaev](https://www.linkedin.com/in/zakirkhunkaev)
 
----
+## Skills
+- **Languages & Frameworks**: JavaScript (ES6+), TypeScript, HTML5, CSS3, React, Redux (Toolkit, Thunk)
+- **Tools & Technologies**: Git, GitHub, VS Code, Chrome DevTools, Unix, Vite, Webpack, Bootstrap, Formik, WebSockets, AJAX, REST API
+- **Testing**: Jest
+- **Databases**: Basic PostgreSQL, MongoDB
+- **Other**: Responsive Design, Asynchronous Programming, Error Handling, Web Scraping, Deployment
 
-## ⚖️ Tech Stack
+## Featured Projects
 
-| JavaScript     | React          | Fastify        |
-| -------------- | -------------- | -------------- |
-| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) |
+### [Page Loader (CLI Tool)](https://github.com/Zakir0000/page-loader)
+A Node.js CLI tool for downloading web pages and resources (HTML, images, CSS, JavaScript) for offline use. Built with **Axios**, **Cheerio**, and **Jest**, emphasizing asynchronous programming and error handling.
 
----
+**Key Features**:
+- Offline web content access
+- Web scraping and automated testing
 
-## 🚀 Featured Projects
+### [Chat (Slack Clone)](https://github.com/Zakir0000/slack-clone)
+A real-time chat app inspired by Slack, developed with **React**, **Redux**, **WebSockets**, and **REST API**. Includes user authentication, form validation with **Formik**, and deployment with **Vite**.
 
-| Project                                | Tech                                      | Description                                    |
-| -------------------------------------- | ----------------------------------------- | ---------------------------------------------- |
-| [Page Loader CLI](https://github.com/zakir0000/page-loader) | JavaScript, Axios, Cheerio               | Downloads web pages and their assets for offline use. |
-| [Chat App](https://github.com/zakir0000/chat-app)           | React, Fastify                            | Real-time messaging with channels and emoji support. |
-| [Course Manager API](https://github.com/zakir0000/course-manager) | Node.js, Fastify, Mongoose               | RESTful API for managing users and courses with email normalization. |
-| [Hexlet Messenger Clone](https://github.com/zakir0000/hexlet-messenger) | React, Redux, WebSocket | Slack-like chat application with authentication. |
-| [Online Store](https://github.com/zakir0000/online-store) | React, Redux Toolkit | E-commerce frontend with cart, search, and filters. |
-| [Task Manager API](https://github.com/zakir0000/task-manager) | Node.js, Fastify, MongoDB | Simple API to manage tasks and users with authentication. |
-| [Portfolio Website](https://github.com/zakir0000/portfolio) | HTML, CSS, JavaScript | Personal portfolio website with animated sections. |
+**Key Features**:
+- Real-time messaging
+- User authentication and form handling
 
----
+### [RSS Aggregator](https://github.com/Zakir0000/rss-aggregator)
+A service to aggregate and update RSS feeds, built with pure **DOM manipulation**, **Webpack**, **Bootstrap**, and **AJAX**. Focuses on validation and deployment.
 
-## 🐍 Contributions Activity
-<div align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Zakir0000/Zakir0000/output/github-contribution-grid-snake.svg" />
-</div>
+**Key Features**:
+- Dynamic feed aggregation
+- Validation and deployment
 
----
+*Explore more projects on my [GitHub](https://github.com/Zakir0000?tab=repositories).*
 
-## 🔥 GitHub Stats
-<details>
-<summary>Click to expand</summary>
+## Education
+**Jurisprudence**  
+[Adygea State University](https://www.adygnet.ru/)  
+September 2002 – June 2007
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakir0000&show_icons=true&count_private=true)
-
-</details>
-
----
-
-## 📊 Top Languages
-<details>
-<summary>Click to expand</summary>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zakir0000&layout=compact)
-
-</details>
-
----
-
-## 📢 Contact
-
-| 📣 Email                                      | 🔗 LinkedIn                                    |
-| --------------------------------------------- | ----------------------------------------------- |
-| [zakirkhunkaev@gmail.com](mailto:zakirkhunkaev@gmail.com) | [linkedin.com/in/zakirkhunkaev](https://linkedin.com/in/zakirkhunkaev) |
-
-| 📱 Telegram                                   |
-| --------------------------------------------- |
-| [@zakirkhunkaev](https://t.me/zakirkhunkaev)  |
-
----
-
-## 🙏 Thanks for Visiting!
-Feel free to connect on LinkedIn! Let's collaborate on awesome projects!
+## Additional Information
+- **Open to Relocation**: Willing to move for opportunities
+- **Location**: Maikop, Russia
+- **Languages**: Proficient in reading professional English literature

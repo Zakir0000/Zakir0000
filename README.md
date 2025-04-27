@@ -1,66 +1,81 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zakir+Khunkaev!;" alt="Typing SVG" />
-</h1>
+![Hi There! 👋 I'm Zakir Khunkaev!](assets/typing-intro.gif)
 
 <div align="center">
-  
-  🎓 Studying at [Hexlet](https://ru.hexlet.io/u/zakir_khunkaev)  
-  📬 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/-ZakirKhunkaev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zakirkhunkaev) 
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zakirkhunkaev@gmail.com) 
-  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/zakirkhunkaev)
-
+  I'm Zakir, a frontend developer-in-training at <a href="https://ru.hexlet.io/u/zakir_khunkaev">Hexlet</a>. I love building fast, accessible UIs with React and Fastify. Currently exploring Web3 and open-source contributions.
 </div>
+
+## 📑 Table of Contents
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Featured Projects](#featured-projects)
+- [Contributions Activity](#contributions-activity)
+- [GitHub Stats](#github-stats)
+- [Top Languages](#top-languages)
+- [Contact](#contact)
 
 ---
 
-### ⚒️ Languages-Frameworks-Tools ⚒️
+## 📝 About Me
+I’m **Zakir Khunkaev**, a frontend developer-in-training at Hexlet. I love building fast, accessible user interfaces with React and Fastify. Currently exploring Web3 and open-source contributions.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+---
 
+## ⚒️ Tech Stack
+
+| JavaScript     | React          | Fastify        |
+| -------------- | -------------- | -------------- |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) |
+
+---
+
+## 🚀 Featured Projects
+
+| Project                                | Tech                                      | Description                                    |
+| -------------------------------------- | ----------------------------------------- | ---------------------------------------------- |
+| [Page Loader CLI](https://github.com/zakir0000/page-loader) | JavaScript, Axios, Cheerio               | Downloads web pages and their assets for offline use. |
+| [Chat App](https://github.com/zakir0000/chat-app)           | React, Fastify                            | Real-time messaging with channels and emoji support. |
+| [Course Manager API](https://github.com/zakir0000/course-manager) | Node.js, Fastify, Mongoose               | RESTful API for managing users and courses with email normalization. |
 
 ---
 
 ## 🐍 Contributions Activity
-
 <div align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Zakir0000/Zakir0000/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
 
-## :fire: My GitHub Stats
+## 🔥 GitHub Stats
+<details>
+<summary>Click to expand</summary>
 
-<div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=zakir0000&show_icons=true&count_private=true&theme=github_dark&border_color=21262d" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=zakir0000&show_icons=true&count_private=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=zakir0000&show_icons=true&count_private=true" alt="Zakir's GitHub Stats" />
-  </picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakir0000&show_icons=true&count_private=true)
 
-  <picture>
-    <source srcset="https://streak-stats.demolab.com?user=zakir0000&theme=github-dark-blue&border=21262d&stroke=21262d&sideLabels=c9d1d9&currStreakLabel=c9d1d9" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://streak-stats.demolab.com?user=zakir0000&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img width="400" src="https://streak-stats.demolab.com?user=zakir0000" alt="Zakir's GitHub Streak" />
-  </picture>
-</div>
+</details>
 
 ---
 
-## 📚 Top Languages
+## 📊 Top Languages
+<details>
+<summary>Click to expand</summary>
 
-<div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zakir0000&layout=compact&theme=github_dark&border_color=21262d" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zakir0000&layout=compact&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakir0000&layout=compact" alt="Top Languages" />
-  </picture>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zakir0000&layout=compact)
+
+</details>
 
 ---
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Feel+free+to+connect+on+LinkedIn!;Let's+collaborate+on+awesome+projects!+" alt="Thank you Typing SVG" />
-</h3>
+## 📬 Contact
+
+| 📫 Email                                      | 🔗 LinkedIn                                    |
+| --------------------------------------------- | ----------------------------------------------- |
+| [zakirkhunkaev@gmail.com](mailto:zakirkhunkaev@gmail.com) | [linkedin.com/in/zakirkhunkaev](https://linkedin.com/in/zakirkhunkaev) |
+
+| 📱 Telegram                                   |
+| --------------------------------------------- |
+| [@zakirkhunkaev](https://t.me/zakirkhunkaev)  |
+
+---
+
+## 🙏 Thanks for Visiting!
+Feel free to connect on LinkedIn! Let's collaborate on awesome projects!

@@ -1,26 +1,26 @@
 ![Hi There! 👋 I'm Zakir Khunkaev!](assets/typing-intro.gif)
 
 <div align="center">
-  I'm Zakir, a frontend developer-in-training at <a href="https://ru.hexlet.io/u/zakir_khunkaev">Hexlet</a>. I love building fast, accessible UIs with React and Fastify. Currently exploring Web3 and open-source contributions.
+  I'm Zakir, a freelance JavaScript developer. I love building fast, accessible UIs with React and Fastify. Currently exploring open-source contributions.
 </div>
 
-## 📑 Table of Contents
-- [About Me](#about-me)
-- [Tech Stack](#tech-stack)
-- [Featured Projects](#featured-projects)
-- [Contributions Activity](#contributions-activity)
-- [GitHub Stats](#github-stats)
-- [Top Languages](#top-languages)
-- [Contact](#contact)
+## 💑 Table of Contents
+- [About Me](about-me)
+- [Tech Stack](tech-stack)
+- [Featured Projects](featured-projects)
+- [Contributions Activity](contributions-activity)
+- [GitHub Stats](github-stats)
+- [Top Languages](top-languages)
+- [Contact](contact)
 
 ---
 
 ## 📝 About Me
-I’m **Zakir Khunkaev**, a frontend developer-in-training at Hexlet. I love building fast, accessible user interfaces with React and Fastify. Currently exploring Web3 and open-source contributions.
+I’m **Zakir Khunkaev**, a freelance JavaScript developer. I love building fast, accessible user interfaces with React and Fastify. Currently exploring open-source contributions.
 
 ---
 
-## ⚒️ Tech Stack
+## ⚖️ Tech Stack
 
 | JavaScript     | React          | Fastify        |
 | -------------- | -------------- | -------------- |
@@ -35,6 +35,10 @@ I’m **Zakir Khunkaev**, a frontend developer-in-training at Hexlet. I love bui
 | [Page Loader CLI](https://github.com/zakir0000/page-loader) | JavaScript, Axios, Cheerio               | Downloads web pages and their assets for offline use. |
 | [Chat App](https://github.com/zakir0000/chat-app)           | React, Fastify                            | Real-time messaging with channels and emoji support. |
 | [Course Manager API](https://github.com/zakir0000/course-manager) | Node.js, Fastify, Mongoose               | RESTful API for managing users and courses with email normalization. |
+| [Hexlet Messenger Clone](https://github.com/zakir0000/hexlet-messenger) | React, Redux, WebSocket | Slack-like chat application with authentication. |
+| [Online Store](https://github.com/zakir0000/online-store) | React, Redux Toolkit | E-commerce frontend with cart, search, and filters. |
+| [Task Manager API](https://github.com/zakir0000/task-manager) | Node.js, Fastify, MongoDB | Simple API to manage tasks and users with authentication. |
+| [Portfolio Website](https://github.com/zakir0000/portfolio) | HTML, CSS, JavaScript | Personal portfolio website with animated sections. |
 
 ---
 
@@ -65,9 +69,9 @@ I’m **Zakir Khunkaev**, a frontend developer-in-training at Hexlet. I love bui
 
 ---
 
-## 📬 Contact
+## 📢 Contact
 
-| 📫 Email                                      | 🔗 LinkedIn                                    |
+| 📣 Email                                      | 🔗 LinkedIn                                    |
 | --------------------------------------------- | ----------------------------------------------- |
 | [zakirkhunkaev@gmail.com](mailto:zakirkhunkaev@gmail.com) | [linkedin.com/in/zakirkhunkaev](https://linkedin.com/in/zakirkhunkaev) |
 

@@ -1,12 +1,10 @@
-# Zakir Khunkaev 👨💻  
+# Zakir Khunkaev  
 ### freelance JavaScript developer | Crafting Interactive Experiences 🚀  
 
 [![Email](https://img.shields.io/badge/Email-zakirkhunkaev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zakirkhunkaev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Zakir0000-181717?style=flat&logo=github&logoColor=white)](https://github.com/Zakir0000)
 [![Telegram](https://img.shields.io/badge/Telegram-zakirkhunkaev-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/zakirkhunkaev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zakirkhunkaev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakirkhunkaev)  
-📞 **Phone**: +7 904 874 37 59  
-🌍 **Location**: Grozny, Russia | 🚀 **Open to Relocation**
 
 ---
 

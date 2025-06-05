@@ -1,5 +1,5 @@
 # Zakir Khunkaev  
-### freelance JavaScript developer | Crafting Interactive Experiences 🚀  
+### JavaScript developer 🚀  
 
 [![Email](https://img.shields.io/badge/Email-zakirkhunkaev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zakirkhunkaev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Zakir0000-181717?style=flat&logo=github&logoColor=white)](https://github.com/Zakir0000)

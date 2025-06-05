@@ -11,41 +11,8 @@
 ### 🛠️ **Tech Stack**  
 #### **Frontend Mastery**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-#### **Tools & More**
-![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-
----
-
-### 🚀 **Featured Projects**  
-
-#### [Real-Time Chat (Slack Clone)](https://github.com/Zakir0000/frontend-project-12)  
-⏳ **2-4 weeks** | 🔥 **Hexlet Project**  
-Built with React/Redux, WebSockets, and Formik. Features real-time messaging, user authentication, and error monitoring with Rollbar.  
-`React` `Redux Toolkit` `WebSockets` `Formik` `Vite`
-
-#### [RSS Aggregator](https://github.com/Zakir0000/frontend-project-11)  
-⏳ **2-4 weeks** | 📰 **Hexlet Project**  
-Automated RSS feed reader with DOM manipulation, Webpack, and AJAX. Focused on deployment and validation.  
-`Webpack` `Bootstrap` `AJAX` `DOM API`
-
-#### [Page Loader (CLI Tool)](https://github.com/Zakir0000/fullstack-javascript-project-4)  
-⏳ **2-4 weeks** | ⚡ **Hexlet Project**  
-Node.js CLI to download web pages + assets for offline use. Leverages Axios and Cheerio.  
-`Node.js` `Axios` `Cheerio` `Jest`
-
-#### [Brain Games](https://github.com/Zakir0000/frontend-project-44)  
-🎮 **5 Console Games** | 🧠 **Hexlet Project**  
-Collection of logic games (GCD, Prime Numbers, Arithmetic Progression).  
-`JavaScript` `CLI`
 
 ---
 
@@ -56,24 +23,10 @@ Collection of logic games (GCD, Prime Numbers, Arithmetic Progression).
 ---
 
 ### 📚 **Education**  
-**Jurisprudence**  
-Adyghe State University | 2002–2007  
 
 **Frontend Development**  
 Hexlet | 2023–2025
 
----
-
-### 🌟 **About Me**  
-- 📚 Read tech literature in English  
-- 🛠️ Enjoy solving complex UI challenges  
-- 🌱 Continuously leveling up my TypeScript & testing skills  
-- 🎸 (Secretly) rock out to 90s alt-rock while coding  
-
----
-
-### 🎯 **Coding Philosophy**  
-> *"First, solve the problem. Then, write the code."*  
-> — John Johnson  
+--- 
 
 [![Visitors](https://komarev.com/ghpvc/?username=Zakir0000&color=blueviolet&style=flat)](https://github.com/Zakir0000)
